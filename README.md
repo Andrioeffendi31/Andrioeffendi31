@@ -1,7 +1,7 @@
 <h1 align="center" justify="center">こんにちは！ Welcome to My Github <img src="https://media.tenor.com/JDzDTtW-PM8AAAAi/bocchi-the-rock.gif" width="55px" height="55px"></h1>
 <div align="middle">
 	<br/>
-  <a href="https://github.com/negpastalia"><img height="384px" src="collab/2021/08/neg.png"></a><a href="https://github.com/shigeru22"><img height="384px" src="collab/2021/08/shigeru.png"></a><a href="https://github.com/Itsakaseru"><img height="384px" src="collab/2021/08/itsakaseru.png"></a><a href="https://github.com/afrisanjaya"><img height="384px" src="collab/2021/08/afri.png"></a><a href="https://github.com/Andrioeffendi31"><img height="384px" src="collab/2021/08/kuma.png"></a>
+  <a href="https://github.com/negpastalia"><img img style="height: 27vw;" src="collab/2021/08/neg.png"></a><a href="https://github.com/shigeru22"><img style="height: 27vw;" src="collab/2021/08/shigeru.png"></a><a href="https://github.com/Itsakaseru"><img style="height: 27vw;" src="collab/2021/08/itsakaseru.png"></a><a href="https://github.com/afrisanjaya"><img style="height: 27vw;" src="collab/2021/08/afri.png"></a><a href="https://github.com/Andrioeffendi31"><img style="height: 27vw;" src="collab/2021/08/kuma.png"></a>
 </div>
 <div align="center">
 <a href="https://github.com/Andrioeffendi31" target="_blank">
